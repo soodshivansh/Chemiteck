@@ -780,6 +780,9 @@ footer li{
             font-family: 'Poppins', sans-serif;
             color: white;
         }
+        .heading-title{
+    width: 100%;
+}
         .list img{
             width: 30vh;
             height: 25vh;
@@ -938,6 +941,9 @@ footer li{
         height: 8vh;
         width: 30vh;
     }
+    .heading-title{
+    width: 100%;
+}
     .front-heading{
         background-image: url("first-background.jpg");
         background-size: cover;
@@ -955,7 +961,8 @@ footer li{
         display: flex;
         justify-content: center;
         align-items: center;
-        gap: 2rem;
+        gap: 2rem;    
+        width: 100%;
     }
     .front-heading h1{
         text-transform: uppercase;
@@ -1141,6 +1148,9 @@ footer li{
         gap: 0rem;
         height: 120vh;
     }
+    .heading-title{
+    width: 100%;
+}
     .front-heading h1{
         padding: 0 1rem;
         text-transform: uppercase;
@@ -1191,6 +1201,9 @@ footer li{
         align-items: center; 
         flex-direction: column;  
     }
+    .heading-title{
+    width: 100%;
+}
     .front-heading h1{
         padding: 0 1rem;
         text-transform: uppercase;
