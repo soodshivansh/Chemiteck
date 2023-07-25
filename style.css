@@ -69,7 +69,7 @@ here goes the main content
     background-position: center;
     height: 72vh;
     padding: 0 5rem;
-    gap: 5rem;
+    /* gap: 20rem; */
 
     display: flex;
     justify-content: center;
@@ -81,6 +81,7 @@ here goes the main content
     align-items: last baseline;
     flex-direction: column;
     gap: 2rem;
+    width: 65%;
 }
 .front-heading h1{
     text-transform: uppercase;
