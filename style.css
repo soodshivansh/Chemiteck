@@ -452,6 +452,9 @@ footer li{
     visibility: visible;
 }
 .popup-box{
+    width: 120vh;
+}
+.popup-box{
     position: relative;
     background: whitesmoke;
     backdrop-filter: blur(10px);
@@ -960,8 +963,9 @@ footer li{
         align-items: center; 
         flex-direction: column;  
     }
-    .popup-screen{
-    width: 35%;
+    
+.popup-box{
+    width: 100vh;
 }
     .heading-title{
         display: flex;
@@ -1157,8 +1161,9 @@ footer li{
     .heading-title{
     width: 100%;
 }
-    .popup-screen{
-    width: 70%;
+
+.popup-box{
+    width: 100vh;
 }
     .front-heading h1{
         padding: 0 1rem;
@@ -1220,8 +1225,9 @@ footer li{
     .heading-title{
     width: 100%;
 }
-    .popup-screen{
-    width: 70%;
+ 
+.popup-box{
+    width: 90vh;
 }
     .front-heading h1{
         padding: 0 1rem;
