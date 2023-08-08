@@ -445,6 +445,9 @@ footer li{
     transition: 0.5s ease;
     transition-property: visibility;
 }
+.popup-screen{
+    width: 100%;
+}
 .popup-screen.active{
     visibility: visible;
 }
@@ -957,6 +960,9 @@ footer li{
         align-items: center; 
         flex-direction: column;  
     }
+    .popup-screen{
+    width: 75%;
+}
     .heading-title{
         display: flex;
         justify-content: center;
@@ -1151,6 +1157,9 @@ footer li{
     .heading-title{
     width: 100%;
 }
+    .popup-screen{
+    width: 70%;
+}
     .front-heading h1{
         padding: 0 1rem;
         text-transform: uppercase;
@@ -1210,6 +1219,9 @@ footer li{
     }
     .heading-title{
     width: 100%;
+}
+    .popup-screen{
+    width: 70%;
 }
     .front-heading h1{
         padding: 0 1rem;
