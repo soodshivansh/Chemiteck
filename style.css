@@ -979,7 +979,7 @@ footer li{
         color: white;
     }
     .slider{
-        width: 35vh;
+        width: 45vh;
         height: 40vh;
         margin: auto;
         position: relative;
@@ -1183,8 +1183,8 @@ footer li{
         font-size: 1.1rem;
     }
     .slider{
-        width: 32vh;
-        height: 37vh;
+        width: 43vh;
+        height: 40vh;
         margin: auto;
         position: relative;
         overflow: hidden;
@@ -1245,8 +1245,8 @@ footer li{
         font-size: 1.1rem;
     }
     .slider{
-        width: 30vh;
-        height: 35vh;
+        width: 40vh;
+        height: 40vh;
     }
     .list img{
         width: 20vh;
