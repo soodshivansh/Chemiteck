@@ -963,7 +963,9 @@ footer li{
         align-items: center; 
         flex-direction: column;  
     }
-    
+.popup-screen{
+    width: 80%;
+}
 .popup-box{
     width: 100vh;
 }
