@@ -1001,12 +1001,12 @@ footer li{
         outline-color: #ffffff;
         outline-style:auto;
     }
-    .list img{
-        width: 23vh;
-        height: 22vh;
+    .front-heading .slider .list img{
+        width: 25vh;
+        height: 23vh;
         object-fit: cover;
         position: relative;
-        left: 5rem;
+        left: 3.6rem;
         top: 0rem;
     }
     .front-heading .mail-btn{
@@ -1209,6 +1209,14 @@ footer li{
         outline-color: #ffffff;
         outline-style:auto;
     }
+    .front-heading .slider .list img{
+        width: 20vh;
+        height: 23vh;
+        object-fit: cover;
+        position: relative;
+        left: 3.6rem;
+        top: 0rem;
+    }
 }
 @media (max-width: 375px){
     .front-heading{
@@ -1268,7 +1276,7 @@ footer li{
         width: 40vh;
         height: 40vh;
     }
-    .list img{
+    .front-heading .slider .list img{
         width: 20vh;
         height: 23vh;
         object-fit: cover;
