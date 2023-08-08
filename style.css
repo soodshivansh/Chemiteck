@@ -979,8 +979,8 @@ footer li{
         color: white;
     }
     .slider{
-        width: 60vh;
-        height: 50vh;
+        width: 35vh;
+        height: 40vh;
         margin: auto;
         position: relative;
         overflow: hidden;
@@ -1183,8 +1183,15 @@ footer li{
         font-size: 1.1rem;
     }
     .slider{
-        width: 55vh;
-        height: 50vh;
+        width: 32vh;
+        height: 37vh;
+        margin: auto;
+        position: relative;
+        overflow: hidden;
+    
+        outline-width: 50px;
+        outline-color: #ffffff;
+        outline-style:auto;
     }
 }
 @media (max-width: 375px){
@@ -1238,8 +1245,8 @@ footer li{
         font-size: 1.1rem;
     }
     .slider{
-        width: 40vh;
-        height: 40vh;
+        width: 30vh;
+        height: 35vh;
     }
     .list img{
         width: 20vh;
