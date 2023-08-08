@@ -1002,8 +1002,8 @@ footer li{
         outline-style:auto;
     }
     .list img{
-        width: 30vh;
-        height: 25vh;
+        width: 23vh;
+        height: 22vh;
         object-fit: cover;
         position: relative;
         left: 5rem;
@@ -1270,7 +1270,7 @@ footer li{
     }
     .list img{
         width: 20vh;
-        height: 25vh;
+        height: 23vh;
         object-fit: cover;
         position: relative;
         left: 3.6rem;
