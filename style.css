@@ -1024,7 +1024,7 @@ footer li{
     }
     .catalogue{
         background: #cfd4de;
-        height: 35vh;
+        height: 25vh;
     
         display: flex;
         justify-content: start;
@@ -1071,7 +1071,7 @@ footer li{
     
         padding: 2.5rem 3rem;
         gap: 1rem;
-        height: 100vh;
+        height: 80vh;
     }
     .aboutus h3{
         font-family: 'Poppins', sans-serif;
