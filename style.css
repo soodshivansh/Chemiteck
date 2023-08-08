@@ -948,7 +948,7 @@ footer li{
         background-image: url("first-background.jpg");
         background-size: cover;
         background-position: center;
-        height: 130vh;
+        height: 100vh;
         padding: 3.5rem 2rem;
         gap: 0rem;
     
@@ -1146,7 +1146,7 @@ footer li{
 @media (max-width: 425px){
     .front-heading{
         gap: 0rem;
-        height: 120vh;
+        height: 90vh;
     }
     .heading-title{
     width: 100%;
@@ -1192,7 +1192,7 @@ footer li{
         background-image: url("first-background.jpg");
         background-size: cover;
         background-position: center;
-        height: 110vh;
+        height: 80vh;
         padding: rem 2rem;
         gap: 0rem;
     
