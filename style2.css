@@ -677,6 +677,9 @@ footer li{
         font-size: 0.7rem;
         text-align: center;
     }
+    .slider{
+    width: 50vh;
+    }
     .buttons button{
         width: 35px;
         height: 35px;
