@@ -678,24 +678,24 @@ footer li{
         text-align: center;
     }
     .slider{
-    width: 50vh;
+    width: 45vh;
     }
     .buttons button{
         width: 35px;
         height: 35px;
     }
     .buttons{
-        width: 10%;
+        width: 60%;
     }
     .dots{
-        left: -60px;
+        left: -55px;
         width: 100%;
     }
     .list img{
         width: 30vh;
         height: 30vh;
         position: relative;
-        left: 8rem;
+        left: 5rem;
         top: -1rem;
     }
     .partnership-logos{
