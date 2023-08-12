@@ -684,6 +684,10 @@ footer li{
     .buttons{
         width: 10%;
     }
+    .dots{
+        left: -60px;
+        width: 100%;
+    }
     .list img{
         width: 30vh;
         height: 30vh;
