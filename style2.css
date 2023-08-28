@@ -513,9 +513,9 @@ footer li{
         grid-template-columns: 1fr 1fr;
         padding: 2rem;
         grid-gap: 2rem;
-        margin-top: 170vh;
+        margin-top: 160vh;
         margin-bottom: 10vh;
-        margin-left: -10vh;
+        margin-left: -5vh;
     }
     .grid-container{
         height: 15rem;
