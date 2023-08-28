@@ -565,7 +565,7 @@ footer li{
     .grid{
         grid-template-columns: 1fr;
         padding: 1rem;
-        grid-gap: 6rem;
+        grid-gap: 8rem;
         margin-top: 310vh;
         margin-bottom: 0vh;
     }
@@ -592,7 +592,7 @@ footer li{
     .grid{
         grid-template-columns: 1fr;
         padding: 1rem;
-        grid-gap: 10rem;
+        grid-gap: 11.5rem;
         margin-top: 310vh;
         margin-bottom: 0vh;
     }
