@@ -515,7 +515,7 @@ footer li{
         grid-gap: 2rem;
         margin-top: 170vh;
         margin-bottom: 10vh;
-        margin-left: -30vh;
+        margin-left: -20vh;
     }
     .grid-container{
         height: 15rem;
@@ -579,7 +579,7 @@ footer li{
         grid-template-columns: 1fr;
         padding: 1rem;
         grid-gap: 8rem;
-        margin-top: 300vh;
+        margin-top: 330vh;
         margin-bottom: 0vh;
     }
     .grid-container{
@@ -606,7 +606,7 @@ footer li{
         grid-template-columns: 1fr;
         padding: 1rem;
         grid-gap: 11.5rem;
-        margin-top: 300vh;
+        margin-top: 330vh;
         margin-bottom: 0vh;
     }
     .grid-container{
