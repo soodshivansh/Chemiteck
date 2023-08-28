@@ -525,7 +525,7 @@ footer li{
         grid-template-columns: 1fr;
         padding: 1rem;
         grid-gap: 1rem;
-        margin-top: 200vh;
+        margin-top: 190vh;
         margin-bottom: 0vh;
     }
     .grid-container{
@@ -547,7 +547,7 @@ footer li{
 @media only screen and (max-width: 430px){
     .grid{
         grid-gap: 2rem;
-        margin-top: 200vh;
+        margin-top: 190vh;
     }
     .cata-down-button{
         height: 2rem;
@@ -566,7 +566,7 @@ footer li{
         grid-template-columns: 1fr;
         padding: 1rem;
         grid-gap: 8rem;
-        margin-top: 310vh;
+        margin-top: 300vh;
         margin-bottom: 0vh;
     }
     .grid-container{
@@ -593,7 +593,7 @@ footer li{
         grid-template-columns: 1fr;
         padding: 1rem;
         grid-gap: 11.5rem;
-        margin-top: 310vh;
+        margin-top: 300vh;
         margin-bottom: 0vh;
     }
     .grid-container{
