@@ -822,6 +822,9 @@ footer li{
         gap: 1.5rem;
         flex-direction: column;
     }
+    .partnership-logos .logos .logo{
+    height: 13vh;
+}
 }
 @media (max-width: 450px){
     header .navbar ul{
@@ -887,7 +890,7 @@ footer li{
         font-size: 1.5rem;
     }
     .partnership-logos .logos .logo{
-        height: 10vh;
+        height: 8vh;
     }
     .logos{
         display: flex;
