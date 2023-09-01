@@ -581,7 +581,7 @@ footer li{
 @media only screen and (max-width: 430px){
     .grid{
         grid-gap: 2rem;
-        margin-top: 250vh;
+        margin-top: 180vh;
     }
     .cata-down-button{
         height: 2rem;
