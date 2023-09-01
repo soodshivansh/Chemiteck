@@ -465,7 +465,7 @@ footer li{
     transition: 0.5s ease;
     transition-property: visibility;
     overflow: auto;
-    max-height: 200vh;
+    max-height: 300vh;
 }
 .popup-screen{
     width: 100%;
@@ -556,7 +556,7 @@ footer li{
         grid-template-columns: 1fr;
         padding: 1rem;
         grid-gap: 1rem;
-        margin-top: 280vh;
+        margin-top: 190vh;
         margin-bottom: 0vh;
     }
     .grid-container{
@@ -600,7 +600,7 @@ footer li{
         grid-template-columns: 1fr;
         padding: 1rem;
         grid-gap: 8rem;
-        margin-top: 490vh;
+        margin-top: 400vh;
         margin-bottom: 10vh;
     }
     .grid-container{
@@ -630,7 +630,7 @@ footer li{
         grid-template-columns: 1fr;
         padding: 1rem;
         grid-gap: 11.5rem;
-        margin-top: 600vh;
+        margin-top: 510vh;
         margin-bottom: 10vh;
     }
     .grid-container{
