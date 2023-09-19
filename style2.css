@@ -952,5 +952,46 @@ footer li{
         font-size: 0.9rem;
     }
 }
+/* rc content */
 
+.cntainer .card img{
+    height: 330px;
+}
+.cntainer-ofcards{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cards{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 3rem;
+}
+.header h2{
+    font-family: 'Libre Franklin', sans-serif;
+}
+.card .card-body p{
+    font-family: 'Poppins', sans-serif;
+}
+.card .card-body h5{
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+@media (max-width: 1250px){
+    .cards{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2rem;
+    }
+}
+@media (max-width: 770px){
+    .cards{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 2rem;
+    }
+    .card .card-body .card-text2{
+        display: none;
+    }
+}
 
