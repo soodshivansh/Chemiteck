@@ -998,6 +998,7 @@ footer li{
     text-decoration: none; 
     border-radius: 10px; 
     transition: background-color 0.3s ease;
+    font-family: 'Poppins', sans-serif;
 }
 .card .card-body h5{
     font-family: 'Libre Franklin', sans-serif;
